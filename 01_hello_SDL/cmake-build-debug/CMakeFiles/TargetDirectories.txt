@@ -1,0 +1,3 @@
+/home/anafem/lazy_foo/01_hello_SDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anafem/lazy_foo/01_hello_SDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anafem/lazy_foo/01_hello_SDL/cmake-build-debug/CMakeFiles/01_hello_SDL.dir

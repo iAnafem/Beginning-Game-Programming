@@ -1,0 +1,3 @@
+/home/anafem/lazy_foo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anafem/lazy_foo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anafem/lazy_foo/cmake-build-debug/CMakeFiles/lazy_foo.dir

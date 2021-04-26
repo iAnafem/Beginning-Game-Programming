@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lazy_foo.dir/01_hello_SDL/01_hello_SDL.cpp.o CMakeFiles/lazy_foo.dir/02_getting_an_image_on_the_screen/02_getting_an_image_on_the_screen.cpp.o CMakeFiles/lazy_foo.dir/main.cpp.o -o lazy_foo 
